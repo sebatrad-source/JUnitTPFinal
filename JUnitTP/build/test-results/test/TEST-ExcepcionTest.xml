@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExcepcionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-10-15T23:49:18" hostname="LAPTOP-H2698NIE" time="0.007">
+  <properties/>
+  <testcase name="TextoNulo()" classname="ExcepcionTest" time="0.004"/>
+  <testcase name="TextoValido()" classname="ExcepcionTest" time="0.002"/>
+  <system-out><![CDATA[Empieza TextoNulo()
+Termina TextoNulo()
+Empieza TextoValido()
+Termina TextoValido()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

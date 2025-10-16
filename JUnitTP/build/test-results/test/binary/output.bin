@@ -1,0 +1,24 @@
+Empieza aumentarSaldo()
+Termina aumentarSaldo()
+Empieza reducirSaldo()
+Termina reducirSaldo()
+Empieza saldoInsuficiente()
+Termina saldoInsuficiente()
+Empieza vaciarCuenta()
+Termina vaciarCuenta()
+Empieza depositoVacio()
+Termina depositoVacio()
+%Empieza converitirPositivoCelsius()
+%Termina converitirPositivoCelsius()
+	$Empieza convertirNegativoCelsius()
+	$Termina convertirNegativoCelsius()
+
+Empieza convertirCero()
+
+Termina convertirCero()
+Empieza convertirMil()
+Termina convertirMil()
+Empieza TextoNulo()
+Termina TextoNulo()
+Empieza TextoValido()
+Termina TextoValido()
